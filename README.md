@@ -1,2 +1,1 @@
-# NLP-Project
-## NLP Mini Project
+# Movie Review Sentiment Analysis
